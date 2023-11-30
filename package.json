@@ -1,0 +1,20 @@
+{
+  "name": "web-security-http-vs-https",
+  "version": "1.0.0",
+  "description": "Network Security Lab 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bannukadananjaya/Web-Security-HTTP-vs-HTTPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bannukadananjaya/Web-Security-HTTP-vs-HTTPS/issues"
+  },
+  "homepage": "https://github.com/bannukadananjaya/Web-Security-HTTP-vs-HTTPS#readme"
+}
